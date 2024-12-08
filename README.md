@@ -22,9 +22,3 @@ The dataset used is the **IMDB Movie Reviews Dataset**, containing labeled revie
   - **Numpy** and **Pandas** for data manipulation  
   - **Scikit-learn** for machine learning models  
   - **NLTK** or **spaCy** for natural language processing  
-
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/sentiment-analysis-imdb.git
-   cd sentiment-analysis-imdb
